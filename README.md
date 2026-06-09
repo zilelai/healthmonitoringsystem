@@ -32,6 +32,10 @@ Here's the step of making a portable health monitoring watch
    -Use the image in this repository to build yours (might include the file)
    -After receiving the board, solder them base on the image file
 
-4. Happy using it :)
+4. Upload code
+   -Use the code in this repository
+   -Upload it in Arduino IDE
 
-5. Might include a 3D Model
+6. Happy using it :)
+
+7. Might include a 3D Model
